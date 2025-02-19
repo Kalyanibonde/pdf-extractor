@@ -1,0 +1,30 @@
+[
+    {
+        "##F": "ORG",
+        "Virginia Ave": "LOC",
+        "Delmar": "LOC",
+        "NY": "LOC",
+        "Ka": "MISC",
+        "##lya": "ORG",
+        "P": "ORG",
+        "Kondhwa Bhusawal": "LOC",
+        "Maharashtra": "LOC",
+        "Pune": "LOC",
+        "USD": "MISC"
+    },
+    {
+        "KAGAL BYKES": "ORG",
+        "JAISINGH RAO PA": "ORG",
+        "##K": "ORG",
+        "KAGAL": "ORG",
+        "MAHARASHTRA": "ORG",
+        "Hero MotoCorp Ltd": "ORG",
+        "Delhi": "LOC",
+        "Jaipur Highway": "LOC",
+        "Dharuhera": "LOC",
+        "Haryana": "LOC",
+        "Code": "MISC",
+        "##ND": "ORG",
+        "SPLENDOR": "ORG"
+    }
+]
